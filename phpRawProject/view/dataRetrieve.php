@@ -38,14 +38,14 @@ session_start();
                         <!-- first field -->
                         <div class="form-group">
                             <label>name</label>
-                            <input type="text" name="name" class="form-control" required> 
+                            <input type="text" name="category" class="form-control" required> 
                         </div>
 
 
                         <!-- second field -->
                         <div class="form-group">
-                            <label>FirstName</label>
-                            <input name="firstname" type ="text" class="form-control" required> 
+                            <label>Name</label>
+                            <input name="name" type ="text" class="form-control" required> 
                         </div>
 
 
